@@ -1,12 +1,12 @@
 import './App.css';
-import ExpenseItem from './Components/ExpenseItem';
+import Expenses from './Components/Expenses';
 
 function App() {
+
+
   return (
     <div>
-      <h1>I am starting fressh!!! </h1>
-      <ExpenseItem />
-    
+      <Expenses/>    
     </div>
 
   );
