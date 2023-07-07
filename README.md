@@ -3,13 +3,13 @@
  <img width=600px height=200px src="https://github.com/Shweta-MG/smallReactProjects/blob/readme/VS%20n%20React.jpg" alt="React n VS Image"></a>
 </p>
 
-<h3 align="center">Small React Projects</h3>
+<h2 align="center">Small React Projects</h2>
 
 ---
 
-<p align="center"> Learning React along with Visual  Studio and Git!!
+<h3 align="center"> Learning React along with Visual  Studio and Git!!
 <br> 
-</p>
+</h3>
 
 ## 📝 Table of Contents
 
