@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=600px height=200px src="https://github.com/Shweta-MG/smallReactProjects/blob/readme/VS%20n%20React.jpg" alt="React n VS Image"></a>
+ <img width=700px height=240px src="https://github.com/Shweta-MG/smallReactProjects/blob/readme/VS%20n%20React.jpg" alt="React n VS Image"></a>
 </p>
 
 <h2 align="center">Small React Projects</h2>
