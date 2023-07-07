@@ -4,11 +4,11 @@
 </p>
 
 <h2 align="center">Small React Projects</h2>
----
+
 <br> 
 <br> 
 <h3 align="center"> Learning React along with Visual  Studio and Git!!
----
+
 <br> 
 <br> 
 </h3>
