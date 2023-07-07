@@ -24,5 +24,6 @@ I will be following tutorials those are available on public platform. I will try
 
 
 
-## 🎈 '!! Happy Coding !! 🎈
+
+<h1 align="center">🎈 !! Happy Coding !! 🎈</h1>
 
