@@ -22,9 +22,9 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This Repo is consist of many small projects that I am completing while learning React. Mostly these projects are small and code along projects where I will be completing following some youTube tutorial or som especial course randomly found while searching for some special topic. <br> 
+This Repo is consist of many small projects that I am completing while learning React. Mostly these are small and code along projects which I will be completing following some youTube tutorial or some special course randomly found on internet. <br> 
 
-I will be following tutorials those are available on public platform. I will try to update ReadMe file of every project to show my gratitute to the author of the project. I will mostly using CSS directly from tutorial and will try to change logics, based on my understanding. So the final project may or may not be similiar to the tutorial I am following.
+I will be following tutorials those are available on various public platform and will try to update ReadMe file of every project to show my gratitute towards the author of the project. I will mostly using CSS directly from tutorial and will try to change logics, based on my understanding. So the final project may or may not be similiar to the tutorial I am following.
 
 
 
