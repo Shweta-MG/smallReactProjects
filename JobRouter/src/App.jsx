@@ -1,15 +1,32 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
-import "./App.css";
+import React from 'react';
+import {
+  createBrowserRouter,
+  createRoutesFromElements,
+  Route,
+  RouterProvider
+} from 'react-router-dom';
+
+//pages
+import Home from './Pages/Home';
+import About from './Pages/About';
+
+//layouts
+import RootLayout from './layouts/RootLayout';
+
+const router = createBrowserRouter(
+  createRoutesFromElements(
+    <Route path="/" element={<RootLayout />}>
+      <Route index element={<Home />} /> 
+      <Route path="about" element={<About />}/>   
+    </Route >
+  )
+)
+
+
 
 function App() {
-  const [count, setCount] = useState(0);
 
-  return (
-    <>
-      <h1>I am learning react routes here!!</h1>
-    </>
+  return ( <RouterProvider router={router} />    
   );
 }
 
