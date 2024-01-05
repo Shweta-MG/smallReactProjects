@@ -1,0 +1,54 @@
+{
+    "careers": [
+      {
+        "id": 1,
+        "title": "Senior React Developer",
+        "salary": 50000,
+        "location": "London, UK",
+        "details" : "We are actively seeking a skilled and experienced Senior React Developer to join our innovative team. In this role, you will play a pivotal part in designing, developing, and maintaining robust web applications using React.js. As a senior member, you will lead and mentor a team of developers, contribute to the architectural decisions of our projects, and collaborate closely with cross-functional teams. We value continuous learning and encourage our team to stay updated on the latest technologies and industry best practices. If you are passionate about creating efficient and scalable frontend solutions and possess strong leadership skills, we invite you to contribute to our dynamic and inclusive work environment."
+
+      },
+      {
+        "id": 2,
+        "title": "Plumber",
+        "salary": 40000,
+        "location": "Bowser's Castle",
+        "details" : "We are seeking a skilled and experienced Plumber to join our team. The ideal candidate should possess a strong understanding of plumbing systems, fixtures, and maintenance practices. Responsibilities include installing, repairing, and maintaining plumbing systems in residential and commercial properties. The Plumber will diagnose issues, provide efficient solutions, and ensure compliance with safety standards. Strong problem-solving skills, attention to detail, and the ability to work independently or as part of a team are essential. The candidate should also demonstrate excellent communication and customer service skills. A valid plumbing license and relevant certifications are preferred. Join us if you are dedicated to delivering high-quality plumbing services and thrive in a dynamic work environment."
+      },
+      {
+        "id": 3,
+        "title": "Gym Leader",
+        "salary": 75000,
+        "location": "Kanto Region",
+        "details" : "We are seeking a dedicated and motivated Gym Leader to oversee the day-to-day operations of our fitness facility. The ideal candidate will be passionate about health and wellness, possess excellent leadership skills, and have a strong background in fitness training. Responsibilities include developing and leading fitness classes, providing personalized training sessions, maintaining a safe and clean gym environment, and fostering a positive atmosphere for members. The Gym Leader should stay updated on industry trends, be approachable and supportive to members, and play a key role in promoting the gym's overall mission of encouraging a healthy and active lifestyle. If you are a fitness enthusiast with leadership experience and a commitment to helping others achieve their wellness goals, we invite you to join our team as a Gym Leader."
+      },
+      {
+        "id": 4,
+        "title": "Vue Developer",
+        "salary": 40000,
+        "location": "Liverpool, UK",
+        "details" : "We are looking for a skilled Vue.js Developer to join our dynamic development team. As a Vue.js Developer, you will be responsible for developing and implementing user interface components and supporting the integration of web applications with backend services. You should have a strong understanding of Vue.js, its core principles, and the ability to design and develop efficient, scalable, and responsive front-end solutions. The ideal candidate will be proficient in HTML, CSS, and JavaScript, with experience in building single-page applications. Collaboration with cross-functional teams, attention to detail, and a passion for creating seamless user experiences are essential. If you are a Vue.js enthusiast with a proven track record of delivering high-quality web applications, we invite you to apply and contribute to our innovative projects."
+      },
+      {
+        "id": 5,
+        "title": "Tutorial Maker",
+        "salary": 35000,
+        "location": "Manchester, UK",
+        "details" : "We are seeking a passionate and creative Tutorial Maker to join our team. In this role, you will be responsible for producing engaging and informative tutorials across various subjects, creating content that appeals to our target audience. The ideal candidate possesses excellent communication skills, a deep understanding of the subject matter, and the ability to simplify complex concepts for learners. As a Tutorial Maker, you will collaborate with our content team to develop visually appealing and easy-to-follow tutorials through a variety of media, including written content, videos, and interactive elements. The position offers a unique opportunity to contribute to educational initiatives and share knowledge with a broad audience. If you are a self-motivated individual with a knack for teaching and a passion for creating impactful learning experiences, we encourage you to apply and become a key player in our educational content creation efforts."
+      },
+      {
+        "id": 6,
+        "title": "Website Manager",
+        "salary": 50000,
+        "location": "Berlin, Germany",
+        "details" : "The Website Manager will play a pivotal role in overseeing the overall performance, functionality, and user experience of our company's website. Responsibilities include managing website content, ensuring its alignment with business goals, and optimizing for SEO. The role involves collaborating with cross-functional teams, implementing website updates, and staying abreast of industry trends to enhance the site's performance. The Website Manager will also be responsible for monitoring analytics, identifying areas for improvement, and leading initiatives to enhance the overall online presence. Strong communication skills, attention to detail, and a proactive approach to problem-solving are essential in this role."
+      },
+      {
+        "id": 7,
+        "title": "Food Tester",
+        "salary": 30000,
+        "location": "London, UK",
+        "details" : "As a Food Tester, you will play a crucial role in ensuring the quality and taste of our culinary creations. Your responsibilities include evaluating and analyzing food samples for flavor, texture, and overall quality. You will collaborate closely with the culinary team to provide constructive feedback and contribute to the refinement of recipes. The ideal candidate possesses a discerning palate, attention to detail, and a passion for exploring diverse flavors. This role requires an ability to communicate effectively, a keen sense of taste, and a commitment to maintaining high standards of food excellence. If you have a love for food and a desire to be an integral part of the culinary innovation process, we invite you to join our team."
+      }
+    ]
+  }
