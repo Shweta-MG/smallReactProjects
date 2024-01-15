@@ -49,6 +49,31 @@
         "id": 10,
         "description": "Plan a weekend getaway",
         "deadline": "2023-06-15"
+      },
+      {
+        "id": 11,
+        "description": "Take a photography class",
+        "deadline": "2023-07-01"
+      },
+      {
+        "id": 12,
+        "description": "Organize a charity event",
+        "deadline": "2023-08-15"
+      },
+      {
+        "id": 13,
+        "description": "Learn to play the guitar",
+        "deadline": "2023-09-30"
+      },
+      {
+        "id": 14,
+        "description": "Start a journal",
+        "deadline": "2023-10-20"
+      },
+      {
+        "id": 15,
+        "description": "Visit a new country",
+        "deadline": "2023-11-12"
       }
     ]
   }
